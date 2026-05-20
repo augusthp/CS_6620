@@ -1,7 +1,7 @@
 """calc code for testing github"""
 def add(a, b):
     """add function"""
-    add_total = a + b
+    add_total = a - b
     return add_total
 
 def subtract(a, b):
