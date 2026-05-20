@@ -8,12 +8,12 @@ This project was made to test Github workflows. The code I included is a simple 
 
 ##         Local Setup
 
-'''bash
+```bash
 git clone
 cd python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirments.txt
 pytest
-'''
+```
 
 This workflow was made  with the premade Python .yml file found in the github actions tab. This is using the standard file except I added the "workflow_dispatch"line which adds the ad hock functionality.
