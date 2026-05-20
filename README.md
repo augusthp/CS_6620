@@ -6,7 +6,7 @@ Assigment 1
 
 This project was made to test Github workflows. The code I included is a simple calculator app made in python. It has add, subtract, multiply,and  divide functions. This code also includes a calc_test program that tests each functon. This makes it easy to break a function and see it fail a test. 
 
-##Local Setup
+##         Local Setup
 
 '''bash
 git clone
